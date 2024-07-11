@@ -18,4 +18,12 @@ fox.color = 'red';
 console.log(fox);
 console.log(fox.age, fox.color);
 
+fox.name = "Lucy"
+console.log(fox);
+console.log(fox.age, fox.color, fox.name);
+
+fox.mass = 15
+console.log(fox);
+console.log(fox.age, fox.color, fox.name, fox.mass);
+
 //Try modifying or adding properties below.

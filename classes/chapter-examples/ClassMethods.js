@@ -10,7 +10,7 @@ class AstronautI {
      }
    }
  }
- 
+
  // Here we assign the method outside of the constructor
  class AstronautO {
    constructor(name, age, mass){
